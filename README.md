@@ -1,2 +1,5 @@
 # hello-world
-another repository
+
+hello friends,
+
+i made some changes in our code.
